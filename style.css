@@ -1,12 +1,76 @@
 * {
-    background-color: black;
-    color: white;
+    color: #CBE4DE;
+    font-family: 'Bruno Ace SC', cursive;
+    margin: 0;
 }
 
-h1 {
-    color: whitesmoke;
+body {
+    background-color: #2C3333;
+    background-image: url("assets/images/background1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-left: 13%;
+    padding-right: 13%;
 }
 
-.company {
-    color: rgb(185, 26, 58);
+img {
+    border-radius: 0.25rem;
+    border-color: white;
 }
+
+div {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.webbody {
+    padding: 2%;
+}
+
+.companyInfo {
+    color: #95E1D3;
+    font-family: 'Kablammo', cursive;
+    text-align: center;
+}
+
+#companyBrand {
+    font-size: 3rem;
+}
+
+#companySlogan {
+    font-size: 1rem;
+}
+
+.menu {
+    background-color: #526D82;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+}
+.menuItem {
+    background-color: #526D82;
+    color: #9DB2BF;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+}
+
+.intro {
+    text-align: center;
+}
+
+.motivation {
+    text-align: center;
+}
+
+.motivationImage {
+    width: 50%;
+    border: 0.3rem solid white;
+}
+
+.footer {
+    background-color: #0E8388;
+    text-align: right;
+    padding: 1rem;
+}
+
